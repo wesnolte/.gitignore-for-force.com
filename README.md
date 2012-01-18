@@ -1,0 +1,1 @@
+.gitignore file specifically for force.com projects.
